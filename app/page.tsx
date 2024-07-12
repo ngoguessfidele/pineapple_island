@@ -1,5 +1,9 @@
 import About from "@/components/About";
+import Agent from "@/components/Agent";
 import Choose from "@/components/Choose";
+import Contact from "@/components/Contact";
+import Features from "@/components/Features";
+import Footer from "@/components/Footer";
 import Gallery from "@/components/Gallery";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
@@ -15,6 +19,10 @@ export default function Home() {
       <Choose />
       <Offer />
       <Gallery />
+      <Features />
+      <Agent />
+      <Contact />
+      <Footer />
     </main>
   );
 }

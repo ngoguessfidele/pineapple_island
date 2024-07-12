@@ -46,3 +46,18 @@ body {
     0% 90%
   );
 }
+
+
+.polygon1 {
+  clip-path: polygon(
+    0% 25%,
+    10% 0%,
+    100% 25%,
+    100% 100%,
+    0% 100%
+  );
+}
+
+input[type="checkbox"]:checked {
+  @apply bg-primary border-primary;
+}
