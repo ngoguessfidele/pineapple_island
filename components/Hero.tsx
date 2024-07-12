@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 md:translate-x-0 md:translate-y-0 md:left-0 md:top-1/4 font-bold md:bg-primary text-white md:w-[40%] h-[400px] md:h-[360px] p-6 flex flex-col justify-center items-center md:items-start">
             <h1 className="text-2xl md:text-3xl text-center">Pineapple Island:GenZ and Millenial Abode
             </h1>
-            <p className="mt-3 text-center">a community that gives you a taste of happiness, a place you’ll love to live and an opportunity to build a home.</p>
+            <p className="mt-3 text-center">A community that gives you a taste of happiness, a place you’ll love to live and an opportunity to build a home.</p>
             <button className="block md:hidden text-primary bg-white mt-6 px-4 py-2">Get in touch</button>
         </div>
     </div>

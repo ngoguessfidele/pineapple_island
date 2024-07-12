@@ -4,7 +4,7 @@ const Choose = () => {
   return (
     <div className="bg-white mt-[100px] relative flex flex-col items-center md:flex-row md:h-[450px] max-w-full overflow-hidden px-[30px] md:px-0">
       <div className="md:bg-primary md:h-[450px] w-[100%] flex justify-center md:justify-start items-center relative md:absolute -z-25 polygon pb-4 md:pb-0">
-        <div className="relative md:h-[200px] md:w-[80px] flex  items-center md:left-[30px] lg:left-[100px]">
+        <div className="relative md:h-[200px] md:w-[80px] flex  items-center md:left-1 lg:left-[50px]">
             <h1 className="text-primary md:text-white text-xl md:text-3xl font-bold">Why Choose Pineapple Island</h1>
         </div>
       </div>
